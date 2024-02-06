@@ -1,0 +1,7 @@
+import com.alibaba.dubbo.config.ServiceConfig;
+public class FunctionUse6099 {
+public void funcUse() {
+ServiceConfig serviceconfig = new ServiceConfig();
+serviceconfig.getInterfaceClass();
+}
+}
